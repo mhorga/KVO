@@ -80,7 +80,6 @@
 			isa = PBXGroup;
 			children = (
 				29745A8D1BA4DA00002BB2D0 /* Account.swift */,
-				29745A6D1BA4D7C6002BB2D0 /* AppDelegate.swift */,
 				29745A6F1BA4D7C6002BB2D0 /* ViewController.swift */,
 				29745A711BA4D7C6002BB2D0 /* Main.storyboard */,
 				29745A741BA4D7C6002BB2D0 /* Images.xcassets */,
@@ -93,6 +92,7 @@
 		29745A6B1BA4D7C6002BB2D0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				29745A6D1BA4D7C6002BB2D0 /* AppDelegate.swift */,
 				29745A6C1BA4D7C6002BB2D0 /* Info.plist */,
 			);
 			name = "Supporting Files";
