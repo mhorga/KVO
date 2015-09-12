@@ -10,9 +10,9 @@ import UIKit
 
 class Account: NSObject {
    
+    let currentBalanceKeyPath = "currentBalance"
     let startingBalance = 100.0
     var currentBalance = 0.0
-    let currentBalanceKeyPath = "currentBalance"
     
     override init() {
         super.init()
